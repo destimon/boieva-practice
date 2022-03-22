@@ -1,0 +1,7 @@
+diff --git a/task1.txt b/task1.txt
+index 331cb6f..0b6671a 100644
+--- a/task1.txt
++++ b/task1.txt
+@@ -1 +1 @@
+-dima is very funny and sweet
++changed text
